@@ -9,7 +9,7 @@
   userinfo.confを自分用に設定して
 
 ```
-$ git clone 
+$ git clone https://github.com/prpr-man/EBBtoMail.git
 $ cd EBBtoMail
 $ bundle install
 ```
